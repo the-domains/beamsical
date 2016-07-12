@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[BEamsical]]></title>
+        <description><![CDATA[BEamsical]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Jul 2016 22:46:07 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Beamsical is your perfect partner, helping Fintech businesses since 2010</p>]]></description>
+            <link>undefinedbeamsical-is-your-perfect-partner-helping-fintech-businesse/index.html</link>
+            <guid isPermaLink="false">5e91fdf5-fa9b-4c47-963b-3c3f4dff4f5b</guid>
+            <pubDate>Tue, 12 Jul 2016 22:46:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
